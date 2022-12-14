@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheCleaner.iml" filepath="$PROJECT_DIR$/.idea/modules/TheCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheCleaner.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
